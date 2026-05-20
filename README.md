@@ -574,7 +574,8 @@ a dog playing with a ball
 
 было построено распределение cosine similarity по всей базе изображений.
 
-![Similarity distribution](images/similarity_distribution_dog_query.png)
+<img width="1580" height="977" alt="similarity_distribution_dog_query" src="https://github.com/user-attachments/assets/0e9382bf-8b7c-40a9-bf99-4d5decc9743d" />
+
 
 Большинство изображений имеет сравнительно невысокую близость к запросу. Top-K результаты находятся в верхней части распределения, поэтому возвращаются системой как наиболее релевантные.
 
@@ -589,6 +590,8 @@ a dog playing with a ball
 ```text
 search_time_summary.csv
 ```
+<img width="1033" height="268" alt="image" src="https://github.com/user-attachments/assets/3f230352-b8f7-4b16-bf18-1115e3b37af0" />
+
 
 График среднего времени поиска:
 
