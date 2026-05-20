@@ -690,10 +690,5 @@ matplotlib
 pandas
 numpy
 ipywidgets
-```
 
-```
-
-```
-```
 
